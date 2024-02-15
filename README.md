@@ -2,7 +2,7 @@ Ejercicio de Entornos de Desarrollo para la segunda evaluación
 
 Este repositorio contiene el ejercicio de Git realizado para la segunda evaluación. 
 En el ejercicio realicé varias modificaciones, incluyendo la creación de ramas, la realización de cambios en archivos,
-la resolución de conflictos y la sincronización con el repositorio de GitHub.
+y la sincronización con el repositorio de GitHub.
 
 Comandos de Git empleados en Git Bash:
 
